@@ -1,0 +1,18 @@
+{
+  "name": "Cert Viewer",
+  "short_name": "Cert Viewer",
+  "description": "A fast, single-file X.509 certificate & CSR viewer. Drop a .pem/.crt/.der/.csr to decode subject, SAN, validity, key usage and fingerprints \u2014 all in your browser, nothing uploaded.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

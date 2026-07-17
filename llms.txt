@@ -1,0 +1,13 @@
+# Cert Viewer
+
+> A fast, single-file X.509 certificate & CSR viewer. Drop a .pem/.crt/.der/.csr to decode subject, SAN, validity, key usage and fingerprints — all in your browser, nothing uploaded.
+
+The viewer is one self-contained HTML file (no build step) and works offline. Files never leave the visitor's device — no uploads, no accounts, no server-side processing.
+
+## Links
+
+- [Open the viewer](https://cert-viewer.us/)
+- [GitHub](https://github.com/MichalAFerber/cert-web-viewer): Source (single index.html)
+- [File Viewer family hub](https://file-viewer.us/): All viewers in the family
+- [Privacy Policy](https://file-viewer.us/privacy.html)
+- [Terms of Use](https://file-viewer.us/terms.html)
