@@ -71,7 +71,8 @@ reads what's in the file.
 
 No bundled libraries — the ASN.1/X.509 decoder is original to this project;
 fingerprints use the browser's Web Crypto API. The shield icon is by the author.
-Analytics by [Plausible](https://plausible.io/).
+Headings use the [JetBrains Mono](https://github.com/JetBrains/JetBrainsMono)
+typeface (SIL OFL-1.1). Analytics by [Plausible](https://plausible.io/).
 
 ## License
 
